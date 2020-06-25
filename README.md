@@ -1,4 +1,4 @@
-# es6-sass-boilerplate
+# ES6 & SASS Boilerplate
 
 A boilerplate for every lightweight frontend project.
 
