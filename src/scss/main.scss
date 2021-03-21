@@ -1,13 +1,9 @@
 @import 'base/reset';
 @import 'base/typography';
 
-@import 'themes/main';
+@import 'layout/header';
+@import 'layout/footer';
 
-body {
-  background-color: $body-color;
-  color: $color-primary;
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-}
+@import 'themes/main';
 
 @import 'components/title';
